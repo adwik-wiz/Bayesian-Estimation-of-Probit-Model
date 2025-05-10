@@ -7,3 +7,6 @@ Our objective is to model the probability of loan denial (i.e., y =1 if deny = y
 otherwise) as a function of the intercept and remaining variables in the file. Note that the
 following covariates are categorical/binary: chist, mhist, phist, selfemp, insurance,
 condomin, afam, single, and hschool
+
+RESULTS
+![RESULTS](results.png)
